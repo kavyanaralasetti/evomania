@@ -1,0 +1,1 @@
+/var/www/html/Dev-Evomania/lib/web/jquery/ui-modules/widgets/tabs.js
